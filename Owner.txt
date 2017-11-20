@@ -1,0 +1,6 @@
+Nama	: Wily Krisna Dartok
+Email	: willy15ti@mahasiswa.pcr.ac.id
+NIM	: 1555301089
+Jurusan	: Komputer
+Prodi	: Teknik Informatika
+Generasi: 15
